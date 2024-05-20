@@ -4,16 +4,16 @@ XWeather is a comprehensive weather application that provides current weather co
 
 ## Table of Contents 📚
 
-- [Introduction🚀](#introduction)
-- [Features🛠️](#features)
-- [Screenshot📷](#screenshot)
-- [Getting Started🎯](#getting-started)
-- [Prerequisites📋](#prerequisites)
-- [Installation⚙️](#installation)
-- [Usage📈](#usage)
-- [API Endpoints🔌](#api-endpoints)
-- [Contributing❤️](#contributing)
-- [License📝](#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshot](#screenshot)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [API Endpoints](#api-endpoints)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Introduction🚀
 
